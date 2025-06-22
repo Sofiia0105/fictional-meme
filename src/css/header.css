@@ -86,7 +86,7 @@
     font-weight: 600;
   }
 
-  .list-navigation-item {}
+  .list-navigation-item {
 
   .list-navigation-link {
     /* line-height: 28px; */
@@ -101,8 +101,6 @@
     gap: 21px;
     margin-left: auto;
   }
-
-  .header-list-btn-item {}
 
   .header-list-btn {
     font-weight: 600;
@@ -143,3 +141,5 @@
     border: 1px solid #bcd0e5;
     background-color: #fff;
   }
+}
+}
